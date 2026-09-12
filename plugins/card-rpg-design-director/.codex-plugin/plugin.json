@@ -1,0 +1,22 @@
+{
+  "name": "card-rpg-design-director",
+  "version": "0.1.0",
+  "description": "Design, review, scope, and hand off a solo-developed Godot card-building RPG.",
+  "author": {
+    "name": "路凯"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Card RPG Design Director",
+    "shortDescription": "Design and scope a Godot card-building RPG.",
+    "longDescription": "A design director for a solo-developed Godot card-building RPG. It reviews concepts and loops, designs card and combat systems, evaluates player experience and interaction risks, controls prototype scope, frames balance assumptions, and produces bounded implementation tasks for Codex.",
+    "developerName": "路凯",
+    "category": "Productivity",
+    "capabilities": ["Game Design", "Planning"],
+    "defaultPrompt": [
+      "Review the current game concept and identify the smallest useful validation step.",
+      "Design this card or combat mechanic and expose its interaction risks.",
+      "Convert the confirmed design into one bounded Codex implementation task."
+    ]
+  }
+}
