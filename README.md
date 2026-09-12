@@ -28,7 +28,11 @@ codex plugin marketplace add Wang-sirw/card-rpg-design-director
 codex plugin add card-rpg-design-director@card-rpg-design-director
 ```
 
-也可以在 ChatGPT 桌面端的 Plugins 页面中添加这个 GitHub marketplace，然后安装 **Card RPG Design Director**。安装后请新建一个对话，使新 Skill 生效。
+## 下载 ZIP 并导入 ChatGPT
+
+[下载 card-rpg-design-director.zip](https://github.com/Wang-sirw/card-rpg-design-director/raw/refs/heads/main/dist/card-rpg-design-director.zip)
+
+在 ChatGPT 的 **Plugins** 页面选择 **Create / Upload plugin**（界面文案可能略有不同），上传这个 ZIP，完成安装后新建一个对话。如果你的账户没有显示创建或上传入口，说明当前账户或工作区尚未开放该入口；这种情况下可先使用上面的 Codex marketplace 安装方式，或由工作区管理员导入 GitHub marketplace。
 
 仓库地址：
 
