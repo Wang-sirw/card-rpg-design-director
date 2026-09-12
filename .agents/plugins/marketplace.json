@@ -1,0 +1,20 @@
+{
+  "name": "card-rpg-design-director",
+  "interface": {
+    "displayName": "Card RPG Design Director"
+  },
+  "plugins": [
+    {
+      "name": "card-rpg-design-director",
+      "source": {
+        "source": "local",
+        "path": "./plugins/card-rpg-design-director"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
