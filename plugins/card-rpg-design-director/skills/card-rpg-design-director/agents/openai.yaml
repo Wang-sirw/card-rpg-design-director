@@ -1,0 +1,4 @@
+interface:
+  display_name: "Card RPG Design Director"
+  short_description: "Design and scope a Godot card-building RPG"
+  default_prompt: "Use $card-rpg-design-director to review this design and define the smallest testable next step."
